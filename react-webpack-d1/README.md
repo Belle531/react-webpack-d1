@@ -1,4 +1,8 @@
-# React + Webpack Starter (Codex Template)
+##  This template was created.
+Configuring Webpack, Babel, and a base React application, setup an npx command to provide an easy-to-use 
+pre-configured starting point to build React applications with an understanding of the underlying Webpack mechanisma.
+
+## React + Webpack Starter (Codex Template)
 
 Welcome to your React exploration! 🎉 Over the past week we’ve dived deep into Webpack—now it’s time to build with React while still seeing Webpack under the hood. This template:
 
