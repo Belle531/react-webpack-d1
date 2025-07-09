@@ -1,5 +1,6 @@
-##  This template was created.
-Configuring Webpack, Babel, and a base React application, setup an npx command to provide an easy-to-use 
+# This template was created
+
+Configuring Webpack, Babel, and a base React application, setup an npx command to provide an easy-to-use
 pre-configured starting point to build React applications with an understanding of the underlying Webpack mechanisma.
 
 ## React + Webpack Starter (Codex Template)
@@ -12,12 +13,12 @@ Welcome to your React exploration! 🎉 Over the past week we’ve dived deep in
 
 ---
 
-## 🚀 Getting Started
+### Getting Started
 
 npx react-webpack-codex my-app
 cd my-app
 npm install (installs React, Webpack, Babel, loaders, etc.)
-npm run dev (starts dev server at http://localhost:3000)
+npm run dev (starts dev server at) [Website Link](http://localhost:3000)
 
 _(To build for production: `npm run build` → `dist/`.)_
 
@@ -25,7 +26,6 @@ _(To build for production: `npm run build` → `dist/`.)_
 
 ## 🗂 Project Structure
 
-```
 my-app/
 ├─ public/
 │  └─ index.html
@@ -42,7 +42,6 @@ my-app/
 ├─ .babelrc
 ├─ package.json
 └─ webpack.config.mjs
-```
 
 ---
 
@@ -55,7 +54,7 @@ my-app/
   Bundles your app for production into `./dist`.
 
 - **npm run preview**
-  Serves the production build locally at http://localhost:5000.
+  Serves the production build locally at[Website Link](http://localhost:3000)
 
 ---
 
